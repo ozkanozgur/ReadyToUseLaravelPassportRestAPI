@@ -1,7 +1,7 @@
 # ReadyToUseLaravelPassportRestAPI
 Ready To Use Laravel + Laravel Passport REST API
 
-#Installation
+# Installation
 
 1. Clone repository.
 2. Goto directory of project.
